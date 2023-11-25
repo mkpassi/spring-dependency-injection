@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d1da85-11c4-4b82-9f6d-75ffadd27b46" name="Changes" comment="Spring Dependency Injection Basic Example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <recent name="com.springboot.di.iface" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.springboot.di.spring.Runner">
+  <component name="RunManager" selected="Application.Runner">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="spring-dependency-injection" />
@@ -100,8 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.springboot.di.spring.Runner" />
         <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.com.springboot.di.spring.Runner" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -114,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700726305670</updated>
-      <workItem from="1700726308579" duration="14444000" />
+      <workItem from="1700726308579" duration="14826000" />
     </task>
     <task id="LOCAL-00001" summary="Spring Dependency Injection Basic Example">
       <created>1700926506257</created>
@@ -123,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700926506257</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Spring Dependency Injection Basic Example">
+      <created>1700927865640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700927865640</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
